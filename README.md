@@ -3,24 +3,24 @@
 This repository contains 3 vulnerable machines/challenges that were a part of Cyber Defence Albania 2024 - CTF Hackathon.
 CDA 2024 - CTF Hackathon brought together cybersecurity experts and enthusiasts, challenging them to showcase their: skills, determination, and creativity in solving complex problems through custom-made vulnerable machines.
 
-**Vulnerable Machines** <br>
+**<h3>Vulnerable Machines</h3>**
 -Vulniverse <br>
 -Hoax <br>
 -DarkMaze
 
-**Hardware Requirements** <br>
+**<h3>Hardware Requirements</h3>**
 -1 CPU Core <br>
 -1GB RAM <br>
 -30GB Disk 
 
-**Supported Virtualization Platforms** <br>
+**<h3>Supported Virtualization Platforms</h3>**
 -Proxmox Virtual Environment <br>
 -Oracle VirtualBox (COMING SOON!)
 
-**Organizational Info** <br>
+**<h3>Organizational Info</h3>**
 CDA 2024 - CTF Hackathon was co-organized by **NEXUS Albania**, **Tech Shapers Community** and **CyberScape**.
 
-**Credits** <br>
+**<h3>Credits</h3>**
 -Dion Mulaj, Red Team & Penetration Tester <br>
 -Olt Vrella, Cybersecurity Researcher <br>
 -Yll Berisha, Offensive Cybersecurity <br>
