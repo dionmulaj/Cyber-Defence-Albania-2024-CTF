@@ -1,4 +1,5 @@
 # Cyber Defence Albania 2024 CTF Hackathon
+![CDA](https://github.com/dionmulaj/Cyber-Defence-Albania-2024-CTF/blob/main/img/CDA.png?raw=true)
 **<h3>Description</h3>** 
 This repository contains 3 vulnerable machines/challenges that were a part of Cyber Defence Albania 2024 - CTF Hackathon.
 CDA 2024 - CTF Hackathon brought together cybersecurity experts and enthusiasts, challenging them to showcase their: skills, determination, and creativity in solving complex problems through custom-made vulnerable machines.
