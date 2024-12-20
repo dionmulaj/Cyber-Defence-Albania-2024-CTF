@@ -18,7 +18,7 @@ CDA 2024 - CTF Hackathon brought together cybersecurity experts and enthusiasts,
 -Oracle VirtualBox (COMING SOON!)
 
 **<h3>Organizational Info</h3>**
-CDA 2024 - CTF Hackathon was co-organized by **NEXUS Albania**, **Tech Shapers Community** and **CyberScape**.
+CDA 2024 - CTF Hackathon was co-organized by **NEXUS Albania**, **Tech Shapers** and **CyberScape**.
 
 **<h3>Credits</h3>**
 -Dion Mulaj, Red Team & Penetration Tester <br>
