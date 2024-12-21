@@ -5,9 +5,9 @@ This repository contains 3 vulnerable machines/challenges that were a part of Cy
 CDA 2024 - CTF Hackathon brought together cybersecurity experts and enthusiasts, challenging them to showcase their: skills, determination, and creativity in solving complex problems through custom-made vulnerable machines.
 
 **<h3>Vulnerable Machines</h3>**
--Vulniverse <br>
--Hoax <br>
--DarkMaze
+<img src="https://github.com/dionmulaj/Cyber-Defence-Albania-2024-CTF/blob/main/img/Vulniverse.png?raw=true" alt="Vulniverse" width="300" height="300">
+<img src="https://github.com/dionmulaj/Cyber-Defence-Albania-2024-CTF/blob/main/img/H0aX-bg.png?raw=true" alt="H0aX" width="300" height="300">
+<img src="https://github.com/dionmulaj/Cyber-Defence-Albania-2024-CTF/blob/main/img/DarkMaze-bg.png?raw=true" alt="DarkMaze" width="300" height="300">
 
 **<h3>Hardware Requirements</h3>**
 -1 CPU Core <br>
