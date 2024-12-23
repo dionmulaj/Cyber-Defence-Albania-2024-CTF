@@ -1,0 +1,18 @@
+In case any of the machines do NOT get an IP Address, it is most likey because the link is down. This will most likely happen if you are running the OVA machine image, because of the conversion from the Proxmox format.
+
+To fix this issue, please get the machine login info from "VM-Credentials" directory on GitHub repo.
+
+After logging in with the given credentials, you can fix the network link problem with these two commands:
+
+
+
+ip addr add 192.168.1.55/24 dev eth0
+
+
+ip link set eth0 up
+
+
+
+NOTE: Replace 'eth0' with an existing adapter's name.
+
+IMPORTANT: Put the machine network settings on "Bridged Adapter" before following the steps above.
